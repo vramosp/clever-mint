@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link",
@@ -38,6 +33,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
             },
             {
                 "label": "Sign Up",
